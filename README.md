@@ -12,3 +12,5 @@
 
 ### 3: Modeling fitting
 #### Starting points: Logistic, SVM, LGBM(refer to Kaggle NB)
+
+Note： Training/Testing data 太大放在一起没办法传Git，所以我分开了，其余数据在Other Data
