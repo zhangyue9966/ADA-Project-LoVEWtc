@@ -10,10 +10,10 @@ Previous Meeting Time: 10/20/2019(Sun); 10/23/2019(Wed)
 
 
 ## 1: Data Processing
-### 1.1: IMBALANCE DATA
+### 1.1: Imbalanced Data
 Starting points:
-- Dsampling
-- Upsampling(both trival version)
+- Dsampling(trival)
+- Upsampling(trival)
 - SMOTE
 ### 1.2: Missing Value
 Starting points:
@@ -30,7 +30,7 @@ Starting points:
 - Hot deck imputation methods
 - more advanced regression technics
 
-## 2: Feature selection
+## 2: Feature Selection
 Starting points:
 - Filter Method(Fisher Criteria
 - Wrapped Method
@@ -38,13 +38,13 @@ Starting points:
   - Backward Stepwise selection
 - Embedded Method(Lasson)
 
-## 3: Modeling fitting
+## 3: Modeling Fitting
 Starting points: 
 - Logistic
 - SVM
 - LGBM(refer to Kaggle NB)
 
-## Data description
+## [Data Description](https://www.kaggle.com/c/ieee-fraud-detection/discussion/101203)
 
 ### Transaction Table
 
