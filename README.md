@@ -14,13 +14,13 @@ Previous Meeting Time: 10/20/2019(Sun); 10/23/2019(Wed)
 Starting points:
 - Dsampling(trival)
 - Upsampling(trival)
-- SMOTE
+- SMOTE  &nbsp; &nbsp; &nbsp; &nbsp; *Group 0*
 ### 1.2: Missing Value
 Starting points:
 - Delete
 - Median,Mod,Mean  &nbsp; &nbsp; &nbsp; &nbsp; *Group 0*
 - Regression  &nbsp; &nbsp; &nbsp; &nbsp; *Group 0*
-- Multiple imputation
+- Multiple imputation  &nbsp; &nbsp; &nbsp; &nbsp; *Group 0*
 - Maximum Likelihood: 
   - Direct Maximum Likelihood
   - The Expectation-maximization (EM) algorithm
