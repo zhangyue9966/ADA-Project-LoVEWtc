@@ -18,8 +18,8 @@ Starting points:
 ### 1.2: Missing Value
 Starting points:
 - Delete
-- Median,Mod,Mean
-- Regression
+- Median,Mod,Mean  &nbsp; &nbsp; &nbsp; &nbsp; *Group 0*
+- Regression  &nbsp; &nbsp; &nbsp; &nbsp; *Group 0*
 - Multiple imputation
 - Maximum Likelihood: 
   - Direct Maximum Likelihood
@@ -32,7 +32,7 @@ Starting points:
 
 ## 2: Feature Selection
 Starting points:
-- Filter Method(Fisher Criteria
+- Filter Method(Fisher Criteria）
 - Wrapped Method
   - Forward Stepwise selection
   - Backward Stepwise selection
@@ -40,7 +40,7 @@ Starting points:
 
 ## 3: Modeling Fitting
 Starting points: 
-- Logistic
+- Logistic  &nbsp; &nbsp; &nbsp; &nbsp; *Group 0*
 - SVM
 - LGBM(refer to Kaggle NB)
 
